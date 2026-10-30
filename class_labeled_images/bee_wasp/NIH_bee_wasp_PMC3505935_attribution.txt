@@ -1,0 +1,9 @@
+﻿Image: NIH_bee_wasp_PMC3505935.jpg
+Class: bee_wasp
+Insect: Wasp
+Description: Multiple wasp-sting sites on human feet, with central necrosis and surrounding erythema.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC3505935/
+Publication: Rhabdomyolysis due to Multiple Wasp Stings
+License: https://creativecommons.org/licenses/by/3.0/
+Modifications: None; original publication figure.
+Status: Source-labeled candidate; final training review pending.

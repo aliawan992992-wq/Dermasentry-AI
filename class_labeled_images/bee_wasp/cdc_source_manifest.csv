@@ -1,0 +1,5 @@
+filename,class,cdc_id,source_page,patient_group,label_evidence,status
+CDC_bee_wasp_21540.jpg,bee_wasp,21540,https://wwwn.cdc.gov/phil/Details.aspx?pid=21540,CDC_WASP_PATIENT_21540_21541,CDC PHIL describes human-skin bee_wasp bite or sting reaction,source_labeled_candidate
+CDC_bee_wasp_21542.jpg,bee_wasp,21542,https://wwwn.cdc.gov/phil/Details.aspx?pid=21542,CDC_WASP_PATIENT_21542_21543,CDC PHIL describes human-skin bee_wasp bite or sting reaction,source_labeled_candidate
+CDC_bee_wasp_21543.jpg,bee_wasp,21543,https://wwwn.cdc.gov/phil/Details.aspx?pid=21543,CDC_WASP_PATIENT_21542_21543,CDC PHIL describes human-skin bee_wasp bite or sting reaction,source_labeled_candidate
+CDC_bee_wasp_15131.jpg,bee_wasp,15131,https://wwwn.cdc.gov/phil/Details.aspx?pid=15131,CDC_15131,CDC identifies yellow jacket wasp sting,source_labeled_candidate

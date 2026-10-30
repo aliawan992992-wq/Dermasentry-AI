@@ -1,0 +1,10 @@
+﻿Image: NIH_bee_wasp_PMC10484274_A.png
+Class: bee_wasp
+Insect: Honeybee
+Description: Human neck with sting site and surrounding redness.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10484274/
+Publication: Dermoscopy Observation of Bee Sting in a 3-Year-Old Girl
+License: https://creativecommons.org/licenses/by/4.0/
+Modifications: Panel A cropped from original Figure 1.
+Patient group: PMC10484274
+Status: Source-labeled candidate; final dataset review pending.

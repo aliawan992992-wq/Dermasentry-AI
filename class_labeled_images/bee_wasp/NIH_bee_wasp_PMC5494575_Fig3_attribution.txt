@@ -1,0 +1,9 @@
+﻿Image: NIH_bee_wasp_PMC5494575_Fig3.jpg
+Class: bee_wasp
+Description: Erythema and blister formation on human skin following multiple wasp stings.
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC5494575/
+Publication: Acute Pancreatitis and Rhabdomyolysis with Acute Kidney Injury following Multiple Wasp Stings
+Figure: Figure 3
+Article license: https://creativecommons.org/licenses/by/4.0/
+Modifications: None
+Status: Source-labeled candidate; figure rights and final clinical review pending.

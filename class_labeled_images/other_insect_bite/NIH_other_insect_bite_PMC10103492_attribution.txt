@@ -1,0 +1,10 @@
+﻿Image: NIH_other_insect_bite_PMC10103492.png
+Class: other_insect_bite
+Insect: Sergentomyia minuta (sand fly)
+Description: Human skin hypersensitivity reaction after sand-fly bites
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC10103492/
+Authors: Lucie Ticha et al.
+Publication: Experimental feeding of Sergentomyia minuta on reptiles and mammals: comparison with Phlebotomus papatasi
+License: https://creativecommons.org/licenses/by/4.0/
+Modifications: Cropped Figure 2 to retain the human skin reaction panel
+Status: Source-labeled candidate; clinical label and figure-specific rights require final review

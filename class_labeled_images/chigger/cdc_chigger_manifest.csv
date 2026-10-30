@@ -1,0 +1,8 @@
+filename,class,cdc_id,source_page,patient_group,label_evidence,status
+CDC_chigger_12069.jpg,chigger,12069,https://wwwn.cdc.gov/phil/Details.aspx?pid=12069,CDC_12069,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_20200.jpg,chigger,20200,https://wwwn.cdc.gov/phil/Details.aspx?pid=20200,CDC_20200,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_20201.jpg,chigger,20201,https://wwwn.cdc.gov/phil/Details.aspx?pid=20201,CDC_PATIENT_20201_20203,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_20202.jpg,chigger,20202,https://wwwn.cdc.gov/phil/Details.aspx?pid=20202,CDC_PATIENT_20201_20203,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_20203.jpg,chigger,20203,https://wwwn.cdc.gov/phil/Details.aspx?pid=20203,CDC_PATIENT_20201_20203,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_25186.jpg,chigger,25186,https://wwwn.cdc.gov/phil/Details.aspx?pid=25186,CDC_25186,CDC PHIL description identifies chigger bites,source_labeled_candidate
+CDC_chigger_25266.jpg,chigger,25266,https://wwwn.cdc.gov/phil/Details.aspx?pid=25266,CDC_25266,CDC PHIL description identifies chigger bites,source_labeled_candidate
